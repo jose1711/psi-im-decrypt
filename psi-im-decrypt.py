@@ -6,6 +6,11 @@ decrypts stored passwords used by Psi messenger
 the idea is from
 https://www.georglutz.de/blog/2005/07/01/recover-lost-jabber-passwords-in-psis-config-files/
 
+Copyright © 2019 Jose Riha <jose1711 gmail com>
+This work is free. You can redistribute it and/or modify it under the
+terms of the Do What The Fuck You Want To Public License, Version 2,
+as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
+
 """
 import xml.etree.ElementTree as ET
 import argparse
